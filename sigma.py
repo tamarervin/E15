@@ -94,7 +94,7 @@ def calc_sigma(dataframe, num=341):
     denom = smooth(Zpsquare, num) + smooth(Zmsquare, num)
 
     # calculate sigma
-    sigmac = 2 * num_avg / denom
+    sigmac = num_avg / denom
     denom = smooth(deltav, num) + smooth(deltab, num)
     sigmar = (deltav_avg - deltab_avg) / denom
     
