@@ -1,7 +1,7 @@
 # E15
 Repository containing code to reproduce figures in the Ervin et al. (2024) paper: Near subsonic solar wind outflow from an active region 
 [![DOI](https://zenodo.org/badge/805028585.svg)](https://zenodo.org/doi/10.5281/zenodo.11266455)
-
+[arXiv](https://arxiv.org/abs/2405.15844)
 
 # Figures
 
